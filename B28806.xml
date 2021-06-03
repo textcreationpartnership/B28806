@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons presented to the Parliament, for a more strict prohibition of the transportation of wool, humbly tendred by, and on the behalf of the traders and manufacturers in wool throughout this kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28806</idno><idno type="EEBO-CITATION">99885727</idno>
+  <idno type="VID">185552</idno>
+  <idno type="EEBO-PROQUEST">2248537141</idno>
+  
+            <idno type="STC">Wing R582</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[99]</idno>
+            <idno type="STC">ESTC R224888</idno>
+            <idno type="PROQUEST">ocm99885727</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885727e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185552)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons presented to the Parliament, for a more strict prohibition of the transportation of wool, humbly tendred by, and on the behalf of the traders and manufacturers in wool throughout this kingdom.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185552:1"/>
+            <pb facs="tcp:185552:1"/>
+            <head>REASONS Presented to the <hi>Parliament,</hi> for a more Strict Prohibition of the <hi>Transportion</hi> of <hi>Wood,</hi> Humbly tendred by, and on the behalf of the <hi>Traders</hi> and <hi>Manufacturers</hi> in <hi>Wool</hi> throughout this Kingdom.</head>
+            <p>THat the Honourable House of <hi>Commons</hi> in divers former Sessions referred the Consideration of preventing the Transportation of Wool to several Committees, and upon their Report a Bill was drawn, and upon the Second Reading, <hi>April</hi> 28. 1668. committed; but the Parliament shortly after Proroguing, it was not perfected.</p>
+            <p>That the Manufacturers of Wool have, and do continually press for a Redress of this Grievance, and have several Petitions depending for that purpose.</p>
+            <p>That the Transporting of our <hi>English</hi> and <hi>Irish</hi> Wools is an occasion for encreasing the Manufacture of Cloth and Stuffs beyond Sea, for that otherwise they would not be able to make Cloth or Stuffs fit for the Forreign Markets, there being a necessity to use therein a great part of such <hi>English</hi> or <hi>Irish</hi> Wools for those purposes, as may and doth appear from the Accompt hereunder given from persons of great Experience; and one person especially who hath continued in the said Trade for upward of 30 years, and who formerly employed at least 10000 persons in the said Woollen Manufactures.</p>
+            <p>That by the Transporting our Wools, encouragement is given to our Work-men to go into Forreign parts, who for want of a Trade at home are forced to transport themselves beyond Seas, where they have greater wages to instruct others in that Art.</p>
+            <p>This occasions a great loss to the Kings Customs, a decay of the Navigation and Revenue of the Kingdom; for that 100 <hi>l.</hi> in the value of Wool ma<g ref="char:EOLhyphen"/>nufactured at home, may produce in Trade with the Return of it to the Stock of the Kingdom, ten times the value at least, besides the loss of Employment to our People, and decrease of the Manufacture of Stockings.</p>
+            <p>That such Exportation is a great prejudice to the Farmers of this Kingdom, not so much Wool being wrought here, the price thereof is much fallen and kept under, by reason Forreign Markets are supplied by Manufactures made abroad, whereas it was found by experience, that in the late times of Usurpation, when there was War against the <hi>Dutch,</hi> the Transportation of Wool being totally hindred, Wool in <hi>England</hi> was then sold for 38 <hi>s.</hi> a <hi>Todd,</hi> which is not now worth much more than half so much.</p>
+            <p>It is found by experience, that now great Quantities of Cloth and Serges are increased in <hi>Germany,</hi> and other places, and great Quantities of Stuffs in <hi>Flanders, Holland</hi> and <hi>France;</hi> which would fail if our Wools were not exported.</p>
+            <p>That notwithstanding there have been several Laws made with great Penalties to prevent such Exportation of Wool, yet the same have proved hitherto ineffectual; no sufficient power or encouragement having been given thereby to fit persons to look after the Breach of the said Laws; and should not some provision be now made to that purpose, according as is prayed by the Generality of the Manufacturers, no Law (as in humbly conceived) will avail to remedy the same.</p>
+            <p>
+               <hi>It is therefore Humbly Prayed that a Committee may be appointed to consider the said several Petitions, with leave to bring in a Bill for Re-inforcing the former Laws, and preventing the Present and Future Mischiefs both to</hi> Traders, <hi>and the</hi> General Trade <hi>of the Kingdom.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>A SUMMARY ACCOMPT</hi> of the variety of Sorts of Wools which grow in <hi>England</hi> and <hi>Ireland,</hi> and withal how useful every sort is to the making of all Sorts of Cloth and Stuffs, and that without these Wools the like Manu<g ref="char:EOLhyphen"/>facture cannot be made any where beyond the Seas.</head>
+            <p>IT is to be observed, that there grows in this Kingdom and in <hi>Ireland</hi> Wool of all sorts and sizes, Course and Middle, Fine and Super-fine, short Wool, the like of long for the Comb: Our finest Wool in <hi>England</hi> is grown about <hi>Lymster</hi> in <hi>Herefordshire,</hi> where is Wool from 18 <hi>d.</hi> to 2 <hi>s.</hi> 6 <hi>d.</hi> the pound rising as in goodness, which is as fine in Hair as any <hi>Spanish</hi> Wool; and in <hi>Suffolk,</hi> and other places there is course Wool grown from 4 <hi>d.</hi> to 6 <hi>d.</hi> the pound, and in every Shire in <hi>England</hi> there is variety of Sorts and Prices, according to the Pastures, fit to make all sorts of the manufacture of Stuffs as is now made, not the like in any part of the world beside; neither can the like Manufactures be so made any other where without our Wool.</p>
+            <p>For if our Wool were all course, we could not make Middle nor Fine Cloth; or were it all fine, we could not make middle nor course Cloth; or were it all short, we could make no <hi>Worsted</hi> for Stuffs; or were it all long, we could make no Cloth; but being mix'd, as is shewn hereafter, there may be made Stuffs and Cloth of all sorts and prices. <hi>As for Example,</hi>
+            </p>
+            <p>
+               <note place="margin">You must note that the Cheanes or Warps is that which is wound about each of the Beams of the Looms which goes through the Slea, and the Obbs is that which is wound about the Quill, and put into the Shuttle, and shut through the Cheane, and so beaten up in it; for so all stuffs or Clock is made, and the short fine Wool gets a thick ground, and covers the Chean, the long will not, but that is better for the Cheane to hold working than the other.</note>First, To make course Cloth, we use all course short Wool, but we take out of that the longest and coursest for our Warps and Cheanes, and the finest of that sort for the Obbs to shut upon it, which being the finest and shortest, covers the Cheane, which is the courser, and makes a good ground; so when it comes to the Mill, the Cheane is covered not to be seen.</p>
+            <p>And when we make a second sort of the Cloth, we take the longest and best of the coursest Wool for the Cheanes, as is said be<g ref="char:EOLhyphen"/>fore, and shut short middle Wool upon it, and on this manner you may make a third, fourth or fifth sort of fine or super-fine Cloth according to the goodness of the Wool, the longest and the coursest always for the Cheane; you may make as many sorts of Cloth as you please, by ordering the Warps and the Obbs, as is declared, according to the fineness of the Wool.</p>
+            <p>The like may be done with the long Wool for Combing, with which may be made Serges from 20 <hi>s.</hi> a peece, rising to 10 <hi>l.</hi> by mixing the Wool as aforesaid, taking always the longest and coursest Wool for the Cheanes of each sort, which holds best in work<g ref="char:EOLhyphen"/>king, and finest and shortest for the Obbs, because that covers best as well in Stuffs as in Cloth.</p>
+            <p>But this cannot be done in <hi>Spain,</hi> where is none but short Wool; for the <hi>Spanish</hi> Wool of it self is so short that it will hardly hold working; which if it doth, it makes a sort of fine Cloth, which is like a <hi>Bayes,</hi> and soon worn out; but take our fine <hi>Lymster</hi> Wool, or fine <hi>Irish</hi> Wool for the Cheanes, which is a longer Wool, and as fine <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Hair, and so strong to hold working, and shut the <hi>Spanish</hi> Wool for the Obbs, it makes excellent fine thin Cloth; and thus the <hi>French</hi> and <hi>Dutch</hi> do with our Wool.</p>
+            <p>Neither can it be done in <hi>France, Flanders, Holland</hi> or <hi>Germany,</hi> where the Wool is generally short and course, or long and course (without our Wools) for our Wools spend away all their course Wools in all other parts, because they use their Wool for Warps for Cloth, and not for Stuffs, and shut our fine Wool upon it for their Obbs, which so covers the course Cheane that it cannot be seen, and is the reason why our <hi>English</hi> Wool is so desired in all other parts beyond the Seas.</p>
+            <p>So when they make any other sorts of Stuffs beyond the Seas with Silk or Thred Cheanes, which is very often done, they must shut the <hi>English</hi> or <hi>Irish</hi> Wools upon it for their Obbs, because the Wools which grow in those parts, are so course, as is said before, as it will not serve at all for Stuffs; by which it clearly appears, that with our Wool they do not only work up all their own course Wool, but their Silk and Thred for the Cheanes of their Stuffs likewise, which are brought daily into <hi>England</hi> in vast quantities, and sold as great Rarities, though here are far better, and more profitable made in our Countrey.</p>
+            <p>So that if we will but consider what great quantities of Cloth and Serges are newly made in <hi>Leige</hi> in <hi>Germany</hi> weekly with our Wools which they have in great quantities out of <hi>Holland,</hi> and which they confess could not be done without it, with which they furnish great part of <hi>Germany</hi> and <hi>Flanders,</hi> which before bought our Cloth; besides the great quantities of all other sorts of Stuffs which are made in <hi>Holland, Flanders</hi> and <hi>France,</hi> which could not be done with their own Wools; we shall find of what great concernment our Wool is to them, and how highly it concerns us to prevent the Trans<g ref="char:EOLhyphen"/>porting of it: We are always crying out and complaining of the Cheapness of Land and Wool, and the Deadness of Trade; How can we expect a quick Trad ewhen the Wool which should keep our people on work is daily carried into other parts? Wherefore let us but prevent the Transportation of our Wools, and we shall soon find Trade will quicken here, Navigation and His Majesties Revenue increase, Wool rise, and the Trade of all those Manufactures will grow less, and abate in all other parts beyond the Seas, and the <hi>French</hi> King will be inforced to take off all the great Custom set on our <hi>English</hi> Serges by him. But if it be not timely prevented, the Trade of this Nation by degrees will be carried into Forreign parts, never to be recovered; which the <hi>Manufacturers</hi> humbly pray may be prevented by the Wisdom of the Parliament.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:185552:2"/>
+            <pb facs="tcp:185552:2"/>
+            <p>REASONS for the more strict prohibi<g ref="char:EOLhyphen"/>tion of the Transpor<g ref="char:EOLhyphen"/>tation of WOOL.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
